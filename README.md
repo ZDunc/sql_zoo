@@ -1,6 +1,8 @@
 # SQL Zoo Answers
 (Relational database management practice exercises)
 
+Link: https://sqlzoo.net/wiki/SQL_Tutorial
+
 
 ### 0 SELECT basics
 Some simple queries to get you started
